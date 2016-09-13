@@ -1,0 +1,76 @@
+
+.banner{
+    font-size: 0;
+}
+.banner img{
+    width: 100%;
+    height: 3rem;
+}
+.address{
+    padding: 0.3rem 0 0.25rem 0;
+    border-bottom: 1px solid #ebebeb;
+}
+.address p{
+    line-height: 0.45rem;
+    margin-left: 0.27rem;
+}
+.address p:nth-child(1){
+    font-size: 0.3rem;
+}
+.address p:nth-child(2){
+    font-size: 0.24rem;
+}
+.address p:nth-child(3){
+    font-size: 0.24rem;
+}
+.consept p{
+    padding-left: 0.3rem;
+}
+.consept p:nth-child(1){
+    font-size: 0.3rem;
+    font-weight: bold;
+    line-height: 0.45rem;
+    border-bottom: 1px solid #ebebeb;
+}
+.consept p:nth-child(2){
+    font-size: 0.24rem;
+    margin-top: 0.1rem;
+}
+.consept p:nth-child(3){
+    font-size: 0.3rem;
+    margin-top: 0.16rem;
+}
+.consept .pn{
+    font-size: 0.16rem;
+    line-height: 0.35rem;
+}
+.Commitment p{              
+    font-size: 0.16rem;
+    padding-left: 0.3rem;
+    line-height: 0.3rem;
+}
+.Commitment p:nth-child(1){
+    font-size:0.3rem;
+    font-weight: bold;
+    border-bottom:1px solid #ebebeb;
+    line-height: 0.45rem;
+}
+.Commitment p:nth-child(2){
+    font-size:0.24rem;
+    line-height: 0.4rem;
+}
+.Servic p{
+    font-size: 0.16rem;
+    padding-left: 0.3rem;
+    line-height: 0.3rem;
+}
+.Servic p:nth-child(1){
+    font-size: 0.3rem;
+    font-weight: bold;
+    border-bottom: 1px solid #ebebeb;
+    line-height: 0.45rem;
+}
+.Servic p:nth-child(2){
+    font-size:0.24rem;
+    line-height: 0.4rem;
+}

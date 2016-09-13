@@ -1,0 +1,44 @@
+
+.coop-2{
+    background: #fff;
+}
+.coop-2 img{
+    width: 100%;
+    height: 3rem;
+}
+.coop-2 p{
+    line-height: 0.5rem;
+    color:#494949;
+    margin-left: 0.3rem;
+}
+.coop-2 .p1{
+    font-size: 0.3rem;
+}
+.coop-2 .p2{
+    font-size: 0.22rem;
+}
+.coop-list li .iconfont{
+    font-size: 0.3rem;
+    color: #ccc;
+}
+.coop-list{
+    font-size: 0.24rem;
+    box-sizing:border-box;
+    padding: 0.25rem 0;
+    background: #fff;
+    margin-top: 0.3rem;
+}
+.coop-list li{
+    height: 0.4rem;
+    line-height: 0.4rem;
+    margin-left: 0.3rem;
+}
+.coop-list p{
+    color: #000;
+}
+.footer{
+    margin-top: 0.3rem;
+}
+.foot .circle .iconfont{
+    color: #ccc;
+}

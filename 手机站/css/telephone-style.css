@@ -1,0 +1,65 @@
+
+.wrapper{
+   text-align: center; 
+}
+a{
+    text-decoration: none;
+}
+.tel-list{
+    font-size: 0;
+    margin-bottom: 0.2rem;
+}
+.list-cur{
+    width: 100%;
+}
+.list-cur img{
+    width: 1.35rem;
+    height:1.35rem;
+    float: left;
+    margin: 0.35rem 0 0 0.3rem;
+}
+.list-1{
+    width: 5.15rem;
+    height: 1.15rem;
+    line-height: 1.15rem;
+    text-align: center;
+    background: #fff;
+    border-radius: 0.1rem;
+    font-size: 0.35rem;
+    vertical-align: top;
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+    float: left;
+}
+.list-1 .sp1{
+    float: left;
+    margin-left: 0.3rem;
+    color: #000;
+}
+.list-1 .sp2{
+    float: right;
+    margin-right: 0.3rem;
+}
+.list-n{
+    width: 90%;
+    height: 0.95rem;
+    line-height: 0.95rem;
+    background: #fff;
+    font-size: 0.35rem;
+    display: inline-block;
+    border-radius: 0.1rem;
+    margin-top: 0.15rem;
+    color: #000;
+}
+.list-n .sp1{
+    float: left;
+    margin-left: 0.2rem;
+    color: #000;
+}
+.list-n .sp2{
+    float: right;
+    margin-right: 0.2rem;
+}
+.footer{
+    margin-top: 0.3rem;
+}

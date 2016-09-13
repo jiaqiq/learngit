@@ -1,0 +1,72 @@
+
+.banner{
+    position: relative;
+    font-size: 0;
+}
+.banner img{
+    width: 100%;
+    height: 4rem;
+}
+.search-box{
+    position: absolute;
+    top:0rem;
+    left: 0;
+    width: 100%;
+}
+.charger{
+    padding: 0.3rem;
+}
+.product .mt{
+    margin-top:0.3rem;
+}
+.tittle-p{
+    font-size: 0.3rem;
+    margin-left: 0.3rem;
+}
+.icon{
+    width: 0.21rem;
+    height: 0.21rem;
+    display: inline-block;
+    margin-right: 0.1rem;
+    
+}
+.icon-1{
+    background: url(../images/icon01.png) no-repeat;
+    background-size: 0.21rem 0.21rem;
+}
+.icon-2{
+    background: url(../images/icon02.png) no-repeat;
+    background-size: 0.21rem 0.21rem;
+}
+.icon-3{
+    background: url(../images/icon03.png) no-repeat;
+    background-size: 0.21rem 0.21rem;
+}
+.icon-4{
+    background: url(../images/icon04.png) no-repeat;
+    background-size: 0.21rem 0.21rem;
+}
+.icon-5{
+    background: url(../images/icon05.png) no-repeat;
+    background-size: 0.21rem 0.21rem;
+}
+.icon-6{
+    background: url(../images/icon06.png) no-repeat;
+    background-size: 0.21rem 0.21rem;
+}
+.charger img{
+    width: 2.23rem;
+    height: 1.8rem;
+}
+.charger .list-1{
+    background: #fff;
+    float: left;
+    margin:0.03rem;
+    text-align: center;
+    font-size: 0;
+}
+.list-1 p{
+    color: #000;
+    font-size: 0.3rem;
+}
+

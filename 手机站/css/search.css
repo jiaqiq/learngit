@@ -1,0 +1,23 @@
+.search-box{
+    position: relative;
+    font-size: 0;
+    box-sizing: border-box;
+    padding:0.3rem;
+}
+.search{
+    font-size: 0.26rem;
+    height: 0.6rem;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.1rem 0.4rem;
+    border: 1px solid #ccc;
+    border-radius: 0.1rem;
+}
+.icon-search{
+    font-size: 0.26rem;
+    position: absolute;
+    left: 0;
+    top:0.6rem;
+    margin-top:-0.13rem;
+    margin-left: 0.4rem;
+}

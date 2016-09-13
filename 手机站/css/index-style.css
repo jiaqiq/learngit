@@ -1,0 +1,203 @@
+
+.banner{
+    font-size: 0;
+}
+.banner img{
+    width: 100%;
+    height: 3.64rem;
+}
+.service{
+    background: #fff;
+    width: 100%;
+    height:2.05rem; 
+    font-size: 0;
+    margin-top: 0.12rem;
+    border-top:1px solid #ebebeb;
+}
+.item{
+   display: inline-block;
+   width: 25%;
+   height: 2.05rem;
+   text-align: center;
+}
+.item .cir{
+    display: inline-block;
+    width: 1.14rem;
+    height: 1.14rem;
+    line-height: 1.14rem;
+    border-radius:50%;
+    margin-top: 0.25rem;
+    text-decoration: none;
+}
+.service .iconfont{
+    color: #fff;
+    font-size: 0.6rem;
+}
+.service .c{
+    position: relative;
+    bottom: 0.08rem;
+}
+.item .show{
+    background: #0093dd;
+}
+.item .place{
+    background: #ffa358;
+}
+.item .coop{
+    background: #6ee534;
+}
+.item .contact{
+    background: #ff5e5e;
+}
+.item p{
+    font-size: 0.22rem;
+    text-align: center;
+    margin-top:0.15rem;
+}
+.product-show{
+    background: #fff;
+    width: 100%;
+    border-top:1px solid #ebebeb;
+}
+.tittle{
+    height: 0.65rem;
+    line-height: 0.65rem;
+    width: 100%;
+    font-size: 0;
+}
+.product-show .tittle .iconfont{
+    margin-left: 0.3rem;
+    color: #0093dd;
+    font-size: 0.3rem;
+}
+.tittle p{
+    display: inline-block;
+    font-size: 0.3rem;
+    margin-left: 0.15rem;
+}
+.product{
+    font-size: 0;
+    position: relative;
+    border-top:1px solid #ebebeb;
+}
+.product img{
+    padding:0.1rem;
+    width: 2.5rem;
+    height: 1.8rem;
+}
+.product .list-r{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0.35rem 0 0 0.2rem;
+    max-width: 4.5rem;
+}
+.list-r span{
+    width: 0.95rem;
+    height:0.35rem;
+    border-radius: 0.1rem;
+    font-size: 0.22rem;
+    margin-top: 0.3rem;
+}
+.list-r .sp{
+    height: 0.35rem;
+    margin-top: 0.2rem;
+
+}
+.list-r .sp1{
+    border: 1px solid #44b0e6;
+    margin-right: 0.1rem;
+    padding: 0.07rem 0.15rem;
+}
+.list-r .sp2{
+    border: 1px solid #ffb14d;
+    padding:0.07rem 0.2rem;
+}
+.support{
+    background: #fff;
+    width: 100%;
+    border-top:1px solid #ebebeb;
+    margin-top:0.1rem;
+}
+.support .tittle .iconfont{
+    margin-left: 0.3rem;
+    color: #ff6700;
+    font-size: 0.3rem;
+}
+.list-r p:nth-of-type(1){
+    font-size: 0.28rem;
+}
+.list-r p:nth-of-type(2){
+    font-size: 0.22rem;
+}
+.support-list .list-5{
+    width: 100%;
+    height: 2.47rem;
+    border-top:1px solid #ebebeb;
+    font-size: 0;
+}
+.list-5 img{
+    width: 2.77rem;
+    height: 2.07rem;
+    float: left;
+    margin:0.2rem 0 0 0.2rem;
+}
+.list-rr{
+    max-width: 4.5rem;
+    float: left;
+}
+.list-rr .iconfont{
+    margin-right:0.1rem;
+    font-size: 0.25rem;
+    color: #ff6700;
+}
+.list-rr p{
+    margin-left: 0.2rem;
+}
+.list-rr p:nth-of-type(1){
+    font-size: 0.28rem;
+    margin-top: 0.4rem;
+}
+.list-rr p:nth-of-type(2){
+    font-size: 0.22rem;
+    margin-top: 0.18rem;
+    display: inline-block;
+}
+.list-rr p:nth-of-type(3){
+    font-size: 0.22rem;
+    margin-top: 0.28rem;
+}
+.list-rr p:nth-of-type(4){
+    font-size: 0.22rem;
+    margin-top: 0.15rem;
+}
+.xingxiang{
+    background: #fff;
+    width: 100%;
+    border-top:1px solid #ebebeb;
+    margin-top: 0.1rem;
+}
+.xingxiang .tittle .iconfont{
+    color: #ff6767;
+    font-size: 0.3rem;
+    margin-left: 0.3rem;
+} 
+.xx-img img{
+    width: 3.45rem;
+    height: 1.59rem;
+    padding: 0 0.1rem; 
+    border-top:1px solid #ebebeb; 
+    padding-top: 0.12rem;
+    vertical-align: top;
+}
+.xx-img{
+    text-align: center;
+}
+.xx-list p{
+    padding: 0.24rem;
+    line-height: 0.34rem;
+    font-size: 0.2rem;
+}
+.footer{
+    border-top:1px solid #ebebeb;
+    margin-top:0.1rem;
+}
